@@ -1,0 +1,14 @@
+.card {
+    margin-top:10px;
+}
+
+.loader {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-link[disabled] {
+    display: none;
+}
